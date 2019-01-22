@@ -1,1 +1,2 @@
-# FoodFactoryWestland
+# FoodFactory Westland
+Informatieve website met webshop.
